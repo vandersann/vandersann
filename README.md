@@ -11,7 +11,7 @@
 
 💭"I know the price of success: dedication, hard work, and an unceasing devotion to the things you want to see happen."
 
-In my free time, like all good NERD🤓, I love movies (🎞️), series (📺), video games (🎮), books and HQ (📚), listening to music (🎶) and play the drums (🥁).
+In my free time, like all good NERD🤓, I love movies (🎞️), series (📺), video games (🎮), books - HQ (📚), listening to music (🎶) and play the drums (🥁).
 <!--
 **vandersann/vandersann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
