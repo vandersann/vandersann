@@ -46,7 +46,7 @@ I use this thought as a philosophy of life:
 In my free time, like all good NERD🤓, I love movies (🎞️), series (📺), video games (🎮), books - HQ (📚), listening to music (🎶) and play the drums (🥁).
 </div>
 
-
+  ![Snake animation](https://github.com/vandersann/vandersann/blob/output/github-contribution-grid-snake.svg)
 
 
 
