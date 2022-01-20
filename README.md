@@ -4,7 +4,7 @@
 
 </span>
 
-<img align= right src="https://user-images.githubusercontent.com/65673565/150424140-d526204e-2295-43ea-bd0f-b83b2b0c4374.png" width="150px">
+<img align= right src="https://user-images.githubusercontent.com/65673565/150424140-d526204e-2295-43ea-bd0f-b83b2b0c4374.png" width="120px">
 
 <div align="justified">
     I'm *Vander Sandino*, a frontend developer passionate about what he does. A guy with a restless mind and very creative. I intend to develop my knowledge more every day and specify myself in the area of user experience (UI and UX).
