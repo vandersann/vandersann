@@ -22,9 +22,11 @@
 ##
 
 <img align= left src="https://user-images.githubusercontent.com/65673565/150426106-0e3e12c7-0410-41d2-bcb4-31c72f2dc1a2.png" width="120px">
-<div align="center">
+
+<div align="center" style: "inline_block"><br>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersann&hide=contribs,prs&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersann&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersann&hide=contribs,prs&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersann&show_icons=true&theme=dracula)
     
 </div>
 
