@@ -4,13 +4,14 @@
 
 </span>
 
-<div align="justified">
-    
+<img align= right src="https://user-images.githubusercontent.com/65673565/150424140-d526204e-2295-43ea-bd0f-b83b2b0c4374.png" width="150px">
+
+<div align="left">
 I'm **Vander Sandino**, a frontend developer passionate about what he does.
 I have a restless and very creative mind.
 I intend to develop my knowledge more every day and specify myself in the user experience area (UI and UX).
-
 </div>
+
 
 
 <div align="center" style="display: inline_block"><br>
