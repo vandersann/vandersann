@@ -1,15 +1,13 @@
 <span align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World! </h2>
+## <img src="https://user-images.githubusercontent.com/65673565/150426104-0dae9a5a-9ab0-4133-9b35-5a712dd86657.png" width="90px"> Hello World!  </h2>
 
 </span>
 
 <img align= right src="https://user-images.githubusercontent.com/65673565/150424140-d526204e-2295-43ea-bd0f-b83b2b0c4374.png" width="150px">
 
-<div align="left">
-I'm **Vander Sandino**, a frontend developer passionate about what he does.
-I have a restless and very creative mind.
-I intend to develop my knowledge more every day and specify myself in the user experience area (UI and UX).
+<div align="justified">
+    I'm *Vander Sandino*, a frontend developer passionate about what he does. A guy with a restless mind and very creative. I intend to develop my knowledge more every day and specify myself in the area of user experience (UI and UX).
 </div>
 
 
@@ -23,6 +21,7 @@ I intend to develop my knowledge more every day and specify myself in the user e
 
 ##
 
+<img align= left src="https://user-images.githubusercontent.com/65673565/150426106-0e3e12c7-0410-41d2-bcb4-31c72f2dc1a2.png" width="120px">
 <div align="center">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersann&hide=contribs,prs&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersann&show_icons=true&theme=dracula)
@@ -38,6 +37,8 @@ I intend to develop my knowledge more every day and specify myself in the user e
 </div>
 
 ##
+
+<img align= right src="https://user-images.githubusercontent.com/65673565/150426103-3fcc4d1c-c679-4fc2-82a7-cc03abe74813.png" width="120px">
 <div alidn="justified">
 I use this thought as a philosophy of life:
 "I know the price of success: dedication, hard work and an unremitting devotion to the things you want to see happen."
