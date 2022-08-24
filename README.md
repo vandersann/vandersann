@@ -15,7 +15,7 @@
 <div align="center" style="display: inline_block"><br>
 <a href="https://github.com/vandersann" target="_blank"><img align="center" height="30" width="90"  src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vandersann"></a>
 <a href="https://www.linkedin.com/in/vandersandinoo"><img align="center" height="30" width="100"  src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersandinoo/)" ></a>
-<a href="https://api.whatsapp.com/send?phone=5581996430492&text=Olá!"><img align="center" height="30" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581996430492&text=Olá!"></a>
+<a href="https://api.whatsapp.com/send?phone=5581996430492&text=Olá!"><img align="center" height="30" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:vandersann@gmail.com"><img align="center" height="30" width="75" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandersann@gmail.com)"></a>
 </div>
 
