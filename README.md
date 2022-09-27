@@ -48,11 +48,11 @@ Um cara com uma mente inquieta e muito criativo. Desbravando e desenvolvendo cad
 ##
 🔵 Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Landing_Page_Mundo_Invertido&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=-Resgate-Game&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Site-estudo&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Pokedex&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Clone_Interface_Netflix&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Clone_Pagina_Instagram&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Landing_Page_Mundo_Invertido&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https:/https://github.com/vandersann/Landing_Page_Mundo_Invertido)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=-Resgate-Game&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://https://github.com/vandersann/-Resgate-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Site-estudo&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/vandersann/Site-estudo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Pokedex&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/vandersann/Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Clone_Interface_Netflix&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/vandersann/Clone_Interface_Netflix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandersann&repo=Projeto_Marvel&title_color=445AEF&icon_color=FEFEFE&text_color=FEFEFE&bg_color=000000)](https://github.com/vandersann/Projeto_Marvel)
 
 
