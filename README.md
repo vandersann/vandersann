@@ -26,6 +26,7 @@ Um cara com uma mente inquieta e muito criativo. Desbravando e desenvolvendo cad
   ![Figma](https://img.shields.io/badge/-Figma-FF2D20?style=flat&logo=figma&logoColor=white)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-006E93?style=flat&logo=wordpress&logoColor=white)
   ![Elementor](https://img.shields.io/badge/-Elementor-white?style=flat&logo=elementor&logoColor=92023B)
+  ![Element](https://img.shields.io/badge/-Element-white?style=flat&logo=element&logoColor=409eff)
   
  🔵 Entre em contato
 [![Linkedin: Vander Sandino](https://img.shields.io/badge/-VanderSandino-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersandinoo/)](https://www.linkedin.com/in/vandersandinoo/)
