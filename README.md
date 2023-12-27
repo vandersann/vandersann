@@ -17,16 +17,18 @@ Um cara com uma mente inquieta e muito criativo. Desbravando e desenvolvendo cad
 🔵 Tecnologias: 
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-056FB6?style=flat&logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&&logoColor=4FC08D)
   
 
 🔵 Ferramentas: 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1D1D1D?style=flat&logo=visual-studio-code&logoColor=0176C6)
   ![Figma](https://img.shields.io/badge/-Figma-FF2D20?style=flat&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-006E93?style=flat&logo=wordpress&logoColor=white)
   ![Elementor](https://img.shields.io/badge/-Elementor-white?style=flat&logo=elementor&logoColor=92023B)
-  ![Element](https://img.shields.io/badge/-Element-white?style=flat&logo=element&logoColor=409eff)
   
  🔵 Entre em contato
 [![Linkedin: Vander Sandino](https://img.shields.io/badge/-VanderSandino-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersandinoo/)](https://www.linkedin.com/in/vandersandinoo/)
